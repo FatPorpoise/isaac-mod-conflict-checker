@@ -5,7 +5,7 @@ You need python interpreter to run the script
 [Python.org](https://www.python.org/)
 
 I strongly advise using this script alongside
-[isaac-mod-manager](https://github.com/Anahkiasen/isaac-mod-manager)
+[Isaac mod manager](https://github.com/PetricaT/IsaacMM) by PetricaT
 
 ### Config:
 - TARGET_FOLDERS - what folders inside mod folder should be scanned (default: "resources", "resources-dlc3")
