@@ -17,7 +17,7 @@ I strongly advise using this script alongside
 
 ### Density report structure
 {mod folder name} ({total numer of conflicting files}, {total number of conflicting mods}):
-  {conflicting mod id}. {conflicting mod folder name} ({total number of conflicting files with the partner mod}
+  1. {conflicting mod folder name} ({total number of conflicting files with the partner mod})
     - {file path and name}
 
 ####Warning
