@@ -4,7 +4,7 @@
 You need python interpreter to run the script
 [Python.org](https://www.python.org/)
 
-I strongly advise using this script alongside isaac-mod-manager
+I strongly advise using this script alongside
 [isaac-mod-manager](https://github.com/Anahkiasen/isaac-mod-manager)
 
 ### Config:
