@@ -20,7 +20,7 @@ I strongly advise using this script alongside
   1. {conflicting mod folder name} ({total number of conflicting files with the partner mod})
     - {file path and name}
 
-####Warning
+#### Warning
 Mod folder name may not be the same as it's metadata.xml name (the one you see in mod list in the game).
 
 ### Example density report
